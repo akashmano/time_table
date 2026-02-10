@@ -133,6 +133,7 @@ def home(request):
     return render(request, 'home.html')
 ```
 # OUTPUT
-![alt text](<Screenshot (9).png>)
+<img width="1713" height="831" alt="image" src="https://github.com/user-attachments/assets/d3738299-d82b-414e-9e58-045824f84b1c" />
+
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
